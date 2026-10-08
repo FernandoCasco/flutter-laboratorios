@@ -6,7 +6,7 @@ Repositorio con los laboratorios desarrollados en la materia de desarrollo móvi
 
 | Fecha | Laboratorio | Descripción | Temas principales |
 |-------|-------------|-------------|-------------------|
-| 06/10/2026 | [laboratorio-06-10-26](./laboratorio-06-10-26) | _Descripción breve_ | _Temas_ |
+| 06/10/2026 | [laboratorio-06-10-26](./laboratorio-06-10-26) | Registro de estudiantes con formulario validado, persistencia local y listado dinámico | `Form`, validaciones con RegExp, `SharedPreferences`, JSON (`toJson`/`fromJson`), `ListView.builder`| _Temas_ |
 | 08/10/2026 | [laboratorio-08-10-26](./laboratorio-08-10-26) | Tarjeta de perfil profesional con banner, avatar superpuesto, badge de estado, métricas y botones de acción | `Stack` y `Positioned`, `BoxDecoration` (sombras, bordes, gradientes), `ClipRRect`, `Image.network`, `CircleAvatar`, `Row`/`Column`/`Expanded`, Material 3 |
 
 ## 🛠️ Tecnologías
