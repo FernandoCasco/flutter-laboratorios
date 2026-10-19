@@ -11,6 +11,8 @@ Repositorio con los laboratorios desarrollados en la materia de desarrollo móvi
 | 01/10/2026 | [laboratorio-01-10-26](./laboratorio-01-10-26) | Persistencia local de preferencias de usuario y almacenamiento seguro de token | `SharedPreferences`, `flutter_secure_storage` |
 | 06/10/2026 | [laboratorio-06-10-26](./laboratorio-06-10-26) | Registro de estudiantes con formulario validado, persistencia local y listado dinámico | `Form`, validaciones con RegExp, `SharedPreferences`, JSON (`toJson`/`fromJson`), `ListView.builder` |
 | 08/10/2026 | [laboratorio-08-10-26](./laboratorio-08-10-26) | Tarjeta de perfil profesional con banner, avatar superpuesto, badge de estado, métricas y botones de acción | `Stack` y `Positioned`, `BoxDecoration` (sombras, bordes, gradientes), `ClipRRect`, `Image.network`, `CircleAvatar`, `Row`/`Column`/`Expanded`, Material 3 |
+| 15/10/2026 | [laboratorio-15-10-26](./laboratorio-15-10-26) | Perfil de usuario consumido desde API con capas de servicio, repositorio y estado global | `Provider`, `ChangeNotifier`, `MultiProvider`, `Dio`, patrón Repository, tema claro/oscuro |
+| 18/10/2026 | [laboratorio-18-10-26](./laboratorio-18-10-26) | Lista de usuarios con arquitectura limpia separada en capas domain, data y presentation | Clean Architecture, entidades, casos de uso, repositorio abstracto e implementación, inyección de dependencias, `Provider`, tema claro/oscuro |
 
 ## 🛠️ Tecnologías
 
